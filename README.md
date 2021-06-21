@@ -1,2 +1,2 @@
-# NTOU_programing_homework
+# NTOU_Programing_Homework
 I coded for my homework :)
